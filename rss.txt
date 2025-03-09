@@ -8,8 +8,6 @@
 |__|  |__|  \______/   \______/  |__| \__| |__| /__/ \__\ 
                                                           
 
-This script was obfuscated using Moonix (https://discord.gg/Agdgwp8efW)
-Hercules Obfuscator v1.6 (https://github.com/zeusssz/hercules-obfuscator)
 
 ]]
 
